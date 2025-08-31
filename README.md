@@ -69,12 +69,12 @@ flet app.py --web
     c. Patrol Route Tab: Generate optimized patrol routes.
 
     d. Performance Model Tab: Analyze policing performance.
-
+  
+ ![Login Window](assets/Dashboard.png)
+![Statistics](assets/Analytic.png)
 - View Crime Map:
 
     a. Click "Show Crime Map" to view crime hotspots.
-  ![Login Window](assets/Dashboard.png)
-![Statistics](assets/Analytic.png)
 ![Predictive Map](assets/Hotspot.png)
-![Patrol Route Map](assets/map.png)
-![Performance Model](assets/perf.png)
+![Patrol Route Map](assets/Map.png)
+![Performance Model](assets/Perf.png)
